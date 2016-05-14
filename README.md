@@ -1,5 +1,5 @@
 ## Pitch-Perfect
-This project records a users voice and applies various sound effects to it
+This project records a users voice and applies various sound effects to it.
 
 ## Usage
 * builds with xcode 6
